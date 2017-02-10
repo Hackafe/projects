@@ -9,6 +9,7 @@
 * [3D напечатан безчетков мотор](brushless-3d-motor.md) `3d printer`, `3d modeling`, `electrical engineering`, `arduino`
 * [Безжични тонколони](wireless-speakers.md) `hardware`, `linux`, `embedded`
 * [Безкрайно огледало](infinity-mirror.md) `hardware`, `led`
+* [Детектор за присъствие](presence-detect.md) `networking`, `software`
 * [Фейсбук бот](facebook-bot.md) `facebook`, `bot`
 * [Майна нет](majna-net.md) `networking`, `hacking`, `funny`
 * [Парсер за банкови плащания](bank-payment-parser.md) `banking`, `hacking`, `security`
