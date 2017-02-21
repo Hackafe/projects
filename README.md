@@ -15,3 +15,5 @@
 * [Парсер за банкови плащания](bank-payment-parser.md) `banking`, `hacking`, `security`
 * [Разпръснат облак](scattered-cloud.md) `software`, `networking`, `distributed systems`
 * [Traffic sniffer](traffic-sniffer.md) `networking`, `hacking`
+* [3D scanner](3D-Scanner-with-Kinect.md) `hardware`, `linux`, `3D scanner`
+* [Live Broadcasting](LiveBroadcasting.md) `hardware`, `linux`, `video streaming`, `live broadcasting`
